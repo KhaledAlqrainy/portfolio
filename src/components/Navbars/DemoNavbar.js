@@ -182,7 +182,7 @@ class DemoNavbar extends React.Component {
                       <DropdownItem to="/portfolio" tag={Link}>
                         Portfolio
                       </DropdownItem>
-                      <DropdownItem to="/" tag={Link}>
+                      <DropdownItem to="/profile-page" tag={Link}>
                         Profile
                       </DropdownItem>
                       {/* <DropdownItem to="/login-page" tag={Link}>
@@ -218,7 +218,7 @@ class DemoNavbar extends React.Component {
                       id="tooltip356693867"
                       target="_blank"
                     >
-                      <i className="fa fa-instagram" />
+                      <i className="fa fa-linkedin-square" />
                       <span className="nav-link-inner--text d-lg-none ml-2">
                         Linkden
                       </span>
