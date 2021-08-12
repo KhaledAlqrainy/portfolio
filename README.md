@@ -228,12 +228,24 @@ Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
 
 ## Time Estimate
 
-Number and name of feature: Change profile picture and information.
+Number and name of feature: #1 Change the information in Profile page.
 
-Estimate of time needed to complete: 15 mins
+Estimate of time needed to complete: 1.30 hours
 
-Start time: 7:30
+Start time: 5:00 am
 
-Finish time: 7:45
+Finish time: 6:00
 
-Actual time needed to complete: 15 mins
+Actual time needed to complete: one hour
+
+---
+
+Number and name of feature: # Change the information in Portfolio page.
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 6:00 am
+
+Finish time: 6:45
+
+Actual time needed to complete: 45 mins

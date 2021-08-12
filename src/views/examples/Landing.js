@@ -61,7 +61,7 @@ class Landing extends React.Component {
     return (
       <>
         <DemoNavbar />
-        <main ref="main">
+        <main ref="portfolio">
           <div className="position-relative">
             {/* shape Hero */}
             <section className="section section-lg section-shaped pb-250">
